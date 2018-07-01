@@ -1,0 +1,13 @@
+1. To run the system, you need wampserver64 as your Windows web development environment you can downloaded at http://www.wampserver.com/en/
+
+2. Put the file that has been downloaded from my github into C:\wamp64\www 
+
+3. Then launch the wampserver64.exe and find localhost then select the folder that you have placed in the second step.
+
+4. To use the image/video search system, you need to select the radio button that has been labeled video and image under the seach bar.
+
+5. Then you can enter your query to the search bar to find what do you want. 
+
+6. To change the search type (from image to video search), you need to click the reset button to refresh the page again.
+
+7. The database that has been used for this system is Firebase Database. Here is the link for more info about Firebase Database https://firebase.google.com/docs/database
